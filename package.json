@@ -4,7 +4,8 @@
     "Jonathan Harlap <jharlap@gmail.com> (http://github.com/jharlap)",
     "Hans Malherbe <hans.malherbe@gmail.com> (http://github.com/hansmalherbe)",
     "Bryan Kreitlow <?> (http://github.com/bryankreitlow)",
-    "Mike Belshe <mike@belshe.com> (https://github.com/mbelshe)"
+    "Mike Belshe <mike@belshe.com> (https://github.com/mbelshe)",
+    "Holger Frank <holger.frank@famanice.de> (https://github.com/HolgerFrank)"
   ],
   "name": "libphonenumber",
   "description": "Google's phone number handling library ported to node.js",
